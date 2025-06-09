@@ -8,7 +8,7 @@ My project focuses training a YOLO model to detect a single class of objects and
 
 ## Base model and dataset
 
-My base model is YOLOv8s, and dataset is coposed of multiple datasets from the internet:
+My base model is YOLOv8s, and dataset is composed of multiple datasets from the internet:
 - [Ship Detection from Aerial Images](https://www.kaggle.com/datasets/andrewmvd/ship-detection)
 - [Ships in Google Earth](https://www.kaggle.com/datasets/tomluther/ships-in-google-earth)
 - Select photos from [Boat detection in satellite imagery MASATI-V2](https://www.kaggle.com/datasets/louisaberdeen/masati-v2/data)
